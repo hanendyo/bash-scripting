@@ -225,3 +225,10 @@ bad_command
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
