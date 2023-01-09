@@ -661,3 +661,9 @@ history -a
 type echo
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+type reaf
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+type read
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
