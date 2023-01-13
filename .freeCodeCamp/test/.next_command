@@ -686,3 +686,12 @@ exit
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 exit
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m 'bash scripting'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
